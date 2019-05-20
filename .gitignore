@@ -1,0 +1,6 @@
+*.npy
+*.hdf5
+__pycache__
+.ipynb_checkpoints/
+data/membrane/train/aug/
+data/membrane/test/*_predict.png
